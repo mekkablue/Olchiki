@@ -1,13 +1,13 @@
-# Olchiki
+# Ol Chiki
 
-Files for Olchiki support in the Glyphs.app font editor
+Files for Ol Chiki support in the Glyphs.app font editor
 
 ## Installation
 
 1. Move the the files *GlyphData.xml* and *Groups.plist,* as well as the folder *Icons* to `~/Library/Application Support/Glyphs/Info`.
 2. Restart Glyphs.app
 
-You should now see an Olchiki entry in the Font view (Cmd-Opt-1) sidebar under *Languages:*
+You should now see an Ol Chiki entry in the Font view (Cmd-Opt-1) sidebar under *Languages:*
 
 ![Olchiki Sidebar](olchiki-sidebar.png)
 
