@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE glyphData [
+<!ELEMENT glyphData (glyph)+>
+<!ELEMENT glyph EMPTY>
+<!ATTLIST glyph
+	unicode			CDATA		#IMPLIED
+	unicodeLegecy	CDATA		#IMPLIED
+	name			CDATA		#REQUIRED
+	sortName		CDATA		#IMPLIED
+	sortNameKeep	CDATA		#IMPLIED
+	category		CDATA		#REQUIRED
+	subCategory		CDATA		#IMPLIED
+	script			CDATA		#IMPLIED
+	description		CDATA		#IMPLIED
+	production		CDATA		#IMPLIED
+	altNames		CDATA		#IMPLIED
+	decompose		CDATA		#IMPLIED
+	anchors			CDATA		#IMPLIED
+	accents			CDATA		#IMPLIED>
+]>
+<glyphData>
+	<glyph unicode="1C50 " name="zero-olchiki" sortName="olchiki.0" category="Number" script="olchiki" production="uni1C50" description="OL CHIKI DIGIT ZERO" />
+	<glyph unicode="1C51" name="one-olchiki" sortName="olchiki.1" category="Number" script="olchiki" production="uni1C51" description="OL CHIKI DIGIT ONE" />
+	<glyph unicode="1C52" name="two-olchiki" sortName="olchiki.2" category="Number" script="olchiki" production="uni1C52" description="OL CHIKI DIGIT TWO" />
+	<glyph unicode="1C53" name="three-olchiki" sortName="olchiki.3" category="Number" script="olchiki" production="uni1C53" description="OL CHIKI DIGIT THREE" />
+	<glyph unicode="1C54" name="four-olchiki" sortName="olchiki.4" category="Number" script="olchiki" production="uni1C54" description="OL CHIKI DIGIT FOUR" />
+	<glyph unicode="1C55" name="five-olchiki" sortName="olchiki.5" category="Number" script="olchiki" production="uni1C55" description="OL CHIKI DIGIT FIVE" />
+	<glyph unicode="1C56" name="six-olchiki" sortName="olchiki.6" category="Number" script="olchiki" production="uni1C56" description="OL CHIKI DIGIT SIX" />
+	<glyph unicode="1C57" name="seven-olchiki" sortName="olchiki.7" category="Number" script="olchiki" production="uni1C57" description="OL CHIKI DIGIT SEVEN" />
+	<glyph unicode="1C58" name="eight-olchiki" sortName="olchiki.8" category="Number" script="olchiki" production="uni1C58" description="OL CHIKI DIGIT EIGHT" />
+	<glyph unicode="1C59" name="nine-olchiki" sortName="olchiki.9" category="Number" script="olchiki" production="uni1C59" description="OL CHIKI DIGIT NINE" />
+	<glyph unicode="1C5A" name="la-olchiki" sortName="olchiki.letter.01" category="Letter" script="olchiki" production="uni1C5A" description="OL CHIKI LETTER LA" />
+	<glyph unicode="1C5B" name="at-olchiki" sortName="olchiki.letter.02" category="Letter" script="olchiki" production="uni1C5B" description="OL CHIKI LETTER AT" />
+	<glyph unicode="1C5C" name="ag-olchiki" sortName="olchiki.letter.03" category="Letter" script="olchiki" production="uni1C5C" description="OL CHIKI LETTER AG" />
+	<glyph unicode="1C5D" name="ang-olchiki" sortName="olchiki.letter.04" category="Letter" script="olchiki" production="uni1C5D" description="OL CHIKI LETTER ANG" />
+	<glyph unicode="1C5E" name="al-olchiki" sortName="olchiki.letter.05" category="Letter" script="olchiki" production="uni1C5E" description="OL CHIKI LETTER AL" />
+	<glyph unicode="1C5F" name="laa-olchiki" sortName="olchiki.letter.06" category="Letter" script="olchiki" production="uni1C5F" description="OL CHIKI LETTER LAA" />
+	<glyph unicode="1C60" name="aak-olchiki" sortName="olchiki.letter.07" category="Letter" script="olchiki" production="uni1C60" description="OL CHIKI LETTER AAK" />
+	<glyph unicode="1C61" name="aaj-olchiki" sortName="olchiki.letter.08" category="Letter" script="olchiki" production="uni1C61" description="OL CHIKI LETTER AAJ" />
+	<glyph unicode="1C62" name="aam-olchiki" sortName="olchiki.letter.09" category="Letter" script="olchiki" production="uni1C62" description="OL CHIKI LETTER AAM" />
+	<glyph unicode="1C63" name="aaw-olchiki" sortName="olchiki.letter.10" category="Letter" script="olchiki" production="uni1C63" description="OL CHIKI LETTER AAW" />
+	<glyph unicode="1C64" name="li-olchiki" sortName="olchiki.letter.11" category="Letter" script="olchiki" production="uni1C64" description="OL CHIKI LETTER LI" />
+	<glyph unicode="1C65" name="is-olchiki" sortName="olchiki.letter.12" category="Letter" script="olchiki" production="uni1C65" description="OL CHIKI LETTER IS" />
+	<glyph unicode="1C66" name="ih-olchiki" sortName="olchiki.letter.13" category="Letter" script="olchiki" production="uni1C66" description="OL CHIKI LETTER IH" />
+	<glyph unicode="1C67" name="iny-olchiki" sortName="olchiki.letter.14" category="Letter" script="olchiki" production="uni1C67" description="OL CHIKI LETTER INY" />
+	<glyph unicode="1C68" name="ir-olchiki" sortName="olchiki.letter.15" category="Letter" script="olchiki" production="uni1C68" description="OL CHIKI LETTER IR" />
+	<glyph unicode="1C69" name="lu-olchiki" sortName="olchiki.letter.16" category="Letter" script="olchiki" production="uni1C69" description="OL CHIKI LETTER LU" />
+	<glyph unicode="1C6A" name="uc-olchiki" sortName="olchiki.letter.17" category="Letter" script="olchiki" production="uni1C6A" description="OL CHIKI LETTER UC" />
+	<glyph unicode="1C6B" name="ud-olchiki" sortName="olchiki.letter.18" category="Letter" script="olchiki" production="uni1C6B" description="OL CHIKI LETTER UD" />
+	<glyph unicode="1C6C" name="unn-olchiki" sortName="olchiki.letter.19" category="Letter" script="olchiki" production="uni1C6C" description="OL CHIKI LETTER UNN" />
+	<glyph unicode="1C6D" name="uy-olchiki" sortName="olchiki.letter.20" category="Letter" script="olchiki" production="uni1C6D" description="OL CHIKI LETTER UY" />
+	<glyph unicode="1C6E" name="le-olchiki" sortName="olchiki.letter.21" category="Letter" script="olchiki" production="uni1C6E" description="OL CHIKI LETTER LE" />
+	<glyph unicode="1C6F" name="ep-olchiki" sortName="olchiki.letter.22" category="Letter" script="olchiki" production="uni1C6F" description="OL CHIKI LETTER EP" />
+	<glyph unicode="1C70" name="edd-olchiki" sortName="olchiki.letter.23" category="Letter" script="olchiki" production="uni1C70" description="OL CHIKI LETTER EDD" />
+	<glyph unicode="1C71" name="en-olchiki" sortName="olchiki.letter.24" category="Letter" script="olchiki" production="uni1C71" description="OL CHIKI LETTER EN" />
+	<glyph unicode="1C72" name="err-olchiki" sortName="olchiki.letter.25" category="Letter" script="olchiki" production="uni1C72" description="OL CHIKI LETTER ERR" />
+	<glyph unicode="1C73" name="lo-olchiki" sortName="olchiki.letter.26" category="Letter" script="olchiki" production="uni1C73" description="OL CHIKI LETTER LO" />
+	<glyph unicode="1C74" name="ott-olchiki" sortName="olchiki.letter.27" category="Letter" script="olchiki" production="uni1C74" description="OL CHIKI LETTER OTT" />
+	<glyph unicode="1C75" name="ob-olchiki" sortName="olchiki.letter.28" category="Letter" script="olchiki" production="uni1C75" description="OL CHIKI LETTER OB" />
+	<glyph unicode="1C76" name="ov-olchiki" sortName="olchiki.letter.29" category="Letter" script="olchiki" production="uni1C76" description="OL CHIKI LETTER OV" />
+	<glyph unicode="1C77" name="oh-olchiki" sortName="olchiki.letter.30" category="Letter" script="olchiki" production="uni1C77" description="OL CHIKI LETTER OH" />
+	<glyph unicode="1C78" name="muTtuddag-olchiki" sortName="olchiki.punct.01" category="Letter" script="olchiki" production="uni1C78" description="OL CHIKI MU TTUDDAG" />
+	<glyph unicode="1C79" name="gaahlaaTtuddaag-olchiki" sortName="olchiki.punct.02" category="Letter" script="olchiki" production="uni1C79" description="OL CHIKI GAAHLAA TTUDDAAG" />
+	<glyph unicode="1C7A" name="muGaahlaaTtuddaag-olchiki" sortName="olchiki.punct.03" category="Letter" script="olchiki" production="uni1C7A" description="OL CHIKI MU-GAAHLAA TTUDDAAG" />
+	<glyph unicode="1C7B" name="relaa-olchiki" sortName="olchiki.punct.04" category="Letter" script="olchiki" production="uni1C7B" description="OL CHIKI RELAA" />
+	<glyph unicode="1C7C" name="phaarkaa-olchiki" sortName="olchiki.punct.05" category="Letter" script="olchiki" production="uni1C7C" description="OL CHIKI PHAARKAA" />
+	<glyph unicode="1C7D" name="ahad-olchiki" sortName="olchiki.punct.06" category="Letter" script="olchiki" production="uni1C7D" description="OL CHIKI AHAD" />
+	<glyph unicode="1C7E" name="mucaad-olchiki" sortName="olchiki.punct.07" category="Punctuation" script="olchiki" production="uni1C7E" description="OL CHIKI PUNCTUATION MUCAAD" />
+	<glyph unicode="1C7F" name="doubleMucaad-olchiki" sortName="olchiki.punct.08" category="Punctuation" script="olchiki" production="uni1C7F" description="OL CHIKI PUNCTUATION DOUBLE MUCAAD" />
+</glyphData>

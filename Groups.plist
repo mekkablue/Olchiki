@@ -1,0 +1,74 @@
+{
+	languages = (
+		{
+			name = "Ol Chiki";
+			icon = OlChikiTemplate;
+			script = olchiki;
+			subGroup = (
+				{
+					name = "Letters";
+					coverage = (
+						la-olchiki,
+						at-olchiki,
+						ag-olchiki,
+						ang-olchiki,
+						al-olchiki,
+						laa-olchiki,
+						aak-olchiki,
+						aaj-olchiki,
+						aam-olchiki,
+						aaw-olchiki,
+						li-olchiki,
+						is-olchiki,
+						ih-olchiki,
+						iny-olchiki,
+						ir-olchiki,
+						lu-olchiki,
+						uc-olchiki,
+						ud-olchiki,
+						unn-olchiki,
+						uy-olchiki,
+						le-olchiki,
+						ep-olchiki,
+						edd-olchiki,
+						en-olchiki,
+						err-olchiki,
+						lo-olchiki,
+						ott-olchiki,
+						ob-olchiki,
+						ov-olchiki,
+						oh-olchiki,
+					);
+				},
+				{
+					name = "Marks and Punctuation";
+					coverage = (
+						muTtuddag-olchiki,
+						gaahlaaTtuddaag-olchiki,
+						muGaahlaaTtuddaag-olchiki,
+						relaa-olchiki,
+						phaarkaa-olchiki,
+						ahad-olchiki,
+						mucaad-olchiki,
+						doubleMucaad-olchiki,
+					);
+				},
+				{
+					name = "Figures";
+					coverage = (
+						zero-olchiki,
+						one-olchiki,
+						two-olchiki,
+						three-olchiki,
+						four-olchiki,
+						five-olchiki,
+						six-olchiki,
+						seven-olchiki,
+						eight-olchiki,
+						nine-olchiki,
+					);
+				}
+			);
+		},
+	);
+}
